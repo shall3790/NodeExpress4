@@ -1,0 +1,2 @@
+rejectUnauthorized=false
+strict-ssl=false
